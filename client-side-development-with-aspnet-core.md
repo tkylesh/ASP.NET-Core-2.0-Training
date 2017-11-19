@@ -1,4 +1,4 @@
-# URI Conventions of OData
+# Client-side Development with ASP.NET Core
 
 # This Is an A-Head
 
