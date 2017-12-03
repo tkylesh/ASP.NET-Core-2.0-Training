@@ -1,13 +1,13 @@
 # Summary
 
-* [Introduction](README.md)
-* [C\# 7](c-7.md)
+* [Introduction to the Course](README.md)
+* [What's new in C\# 7](c-7.md)
 * [Entity Framework Core 2.0](entity-framework-core-20.md)
 * [ASP.NET Core MVC](aspnet-core-mvc.md)
 * [ASP.NET Core Web API](aspnet-core-web-api.md)
 * [Client-side Development with ASP.NET Core](client-side-development-with-aspnet-core.md)
 * [Security and Identity](security-and-identity.md)
-* [Testing](testing.md)
+* [Testing ASP.NET Core](testing.md)
 * [Debugging and Performance](debugging-and-performance.md)
 * [Hosting and Deployment](hosting-and-deployment.md)
 * [Migrating from .NET Framework](migrating-from-net-framework.md)
